@@ -1,0 +1,103 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+#nav{
+  height: 22vh; width: 100%
+}
+#mainlist{
+  list-style: none;
+float: right;
+}
+li ,p{
+ color: grey;
+  float: right;; padding: 8px
+}
+
+
+input{
+top: 413px;
+width: 435px;
+height: 35px;
+border-radius: 30px;
+border: 1px solid #e5e5e5;
+font-size: 20px;
+
+
+}
+
+ #searchbtn3{
+
+  margin-top: 20px;
+margin-left: 50px;
+  height:40px;
+  width: 150px;
+  border: 1px solid #e5e5e5;
+  background-color: #f6f6f6;
+  font-size: 15px;color: grey;
+  border-radius: 0px;
+
+}
+
+
+ #searchbtn {
+
+   margin-top: 20px;
+ margin-left: 40px;
+   height:40px;
+   width: 150px;
+   border: 1px solid #e5e5e5;
+   background-color: #f6f6f6;
+   font-size: 15px;color: grey;
+   border-radius: 0px;
+}
+
+
+
+button{
+
+  height: 9px; width: 140px;
+  background-color: #f6f6f6;
+  font-size: 15px;color: grey;
+  border: 1px solid #e4e4e4;
+
+}
+
+
+
+
+
+h6{
+  text-align: right;
+
+}
+.submit{
+  text-align: center;
+}
+
+img{
+width:255px;
+height: auto;
+position: absolute;
+top: 41%;
+left:52%;
+transform: translate(-60%,-35%);
+-ms-transform: translate(-60%,-35%);
+-webkit-transform: translate(-60%,-35%);
+}
+
+.textbox{
+background-color: blue;
+}
+.header button{
+  float: right;
+background:
+}
+
+p{
+  float: right;
+ color: grey;
+
+}
